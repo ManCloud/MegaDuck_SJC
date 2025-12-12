@@ -1,0 +1,429 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3bb5f655-ef1d-4a84-9147-958d71ce38f5")
+	(paper "A4")
+	(title_block
+		(title "MegaDuck - Super Junior Computer - Reversed")
+		(date "2025-12-12")
+		(rev "v20251212")
+		(company "ManCloud")
+	)
+	(lib_symbols
+		(symbol "Eigenes:by ManCloud"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 7.4676 6.2484 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "by ManCloud"
+				(at -9.0424 -7.9756 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "by ManCloud_0_1"
+				(circle
+					(center -8.128 -5.588)
+					(radius 0.284)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -7.112 -0.9652)
+					(radius 0.284)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -7.112 -5.969)
+					(radius 0.284)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.8072 -6.0452) (xy -4.318 -6.604) (xy -4.318 -2.794) (xy -2.54 -6.985) (xy 0 -7.62) (xy 0 -6.604)
+						(xy -4.318 2.286) (xy -7.112 3.302) (xy -7.112 -0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -8.4328 -5.4356)
+					(mid -11.1878 -0.4122)
+					(end -7.3152 3.81)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 3.302) (xy 0 1.524) (xy -3.556 2.794) (xy -2.54 3.302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(arc
+					(start -7.3152 3.81)
+					(mid -2.0911 6.5108)
+					(end 3.302 4.1656)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.572) (xy -1.27 -1.778) (xy -0.508 0) (xy -1.524 1.27) (xy 0 0.762) (xy 0 -4.572)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -4.572) (xy 1.27 -1.778) (xy 0.508 0) (xy 1.524 1.27) (xy 0 0.762) (xy 0 -4.572)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 3.302) (xy 0 1.524) (xy 3.556 2.794) (xy 2.54 3.302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.318 2.286) (xy 7.112 3.302) (xy 7.112 -5.969) (xy 4.318 -6.604) (xy 4.318 -2.794) (xy 2.54 -6.985)
+						(xy 0 -7.62) (xy 0 -6.604) (xy 4.318 2.286)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(arc
+					(start 3.302 4.1656)
+					(mid 10.3596 1.6096)
+					(end 8.2296 -5.588)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0.254) (xy 4.572 -0.381) (xy 4.572 -0.762) (xy 6.35 -0.127) (xy 6.35 0.254)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 7.9756 -5.7404)
+					(radius 0.284)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "Eigenes:by ManCloud")
+		(at 257.8324 172.9827 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "872edf57-4cb6-43bf-92f2-d70b6f3029da")
+		(property "Reference" "U1"
+			(at 265.3 166.7343 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "by ManCloud"
+			(at 270.51 173.5353 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.8324 172.9827 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.8324 172.9827 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 257.8324 172.9827 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3bb5f655-ef1d-4a84-9147-958d71ce38f5"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 118.11)
+		(size 43.18 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5aee6fbd-9944-4413-99e0-e4298519c5eb")
+		(property "Sheetname" "Ext-Board"
+			(at 139.7 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ext_board.kicad_sch"
+			(at 139.7 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MD_SJC"
+				(path "/3bb5f655-ef1d-4a84-9147-958d71ce38f5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 41.91)
+		(size 43.18 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "610c1e04-0961-4503-a4bc-b17fabf46693")
+		(property "Sheetname" "ASIC Board"
+			(at 133.35 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "asic_board.kicad_sch"
+			(at 133.35 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MD_SJC"
+				(path "/3bb5f655-ef1d-4a84-9147-958d71ce38f5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 39.37)
+		(size 57.15 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b73c2a1c-06ce-4542-b6a8-b7eaa88d2878")
+		(property "Sheetname" "Main_Board"
+			(at 40.64 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mainboard.kicad_sch"
+			(at 40.64 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MD_SJC"
+				(path "/3bb5f655-ef1d-4a84-9147-958d71ce38f5"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "0")
+		)
+	)
+	(embedded_fonts no)
+)
