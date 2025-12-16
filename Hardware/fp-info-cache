@@ -1,4 +1,4 @@
-26658769562582047
+26664067110290886
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69832,12 +69832,33 @@ Through hole pin header THT 2x20 2.54mm double row
 86
 43
 MegaDuck
+Edge_Connector
+Edge_Connector
+
+0
+34
+34
+MegaDuck
+MD_VoiceChip
+MegaDuck SJC VoiceChip
+
+0
+7
+7
+MegaDuck
 Mega_Duck_36_Pin
 AT ISA 16 bits Bus Edge Connector
 BUS ISA AT Edge connector
 0
 36
 36
+MegaDuck
+Mouse_Connector
+MegaDuck SJC Mouse_Connector
+
+0
+6
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet

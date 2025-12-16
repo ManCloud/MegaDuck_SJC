@@ -7087,7 +7087,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 200.66 57.658 90)
 			(effects
 				(font
@@ -7556,7 +7556,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 193.04 62.738 90)
 			(effects
 				(font
@@ -7710,7 +7710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 193.04 55.118 90)
 			(effects
 				(font
@@ -8029,7 +8029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 167.64 55.118 90)
 			(effects
 				(font
@@ -8166,7 +8166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 160.02 57.658 90)
 			(effects
 				(font
@@ -8436,7 +8436,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 152.4 60.198 90)
 			(effects
 				(font
@@ -8503,7 +8503,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 167.64 62.738 90)
 			(effects
 				(font
@@ -8917,7 +8917,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1"
 			(at 208.28 60.198 90)
 			(effects
 				(font
