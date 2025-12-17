@@ -10571,7 +10571,7 @@
 	)
 	(symbol
 		(lib_id "Eigenes:by ManCloud")
-		(at 391.9736 260.2206 0)
+		(at 381 260.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10580,7 +10580,7 @@
 		(fields_autoplaced yes)
 		(uuid "04301770-c420-4927-a447-428fadd6a419")
 		(property "Reference" "U203"
-			(at 399.4412 253.9722 0)
+			(at 388.4676 254.1016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10589,7 +10589,7 @@
 			)
 		)
 		(property "Value" "by ManCloud"
-			(at 404.6512 260.7732 0)
+			(at 393.6776 260.9026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10598,7 +10598,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 391.9736 260.2206 0)
+			(at 381 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10607,7 +10607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 391.9736 260.2206 0)
+			(at 381 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10616,7 +10616,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 391.9736 260.2206 0)
+			(at 381 260.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13713,7 +13713,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7b91a02e-eb6f-4841-a029-b0808338b020")
+			(uuid "7b91a02e-eb6f-4841-a029-b0808338b021")
 		)
 		(instances
 			(project ""
@@ -13983,7 +13983,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7b91a02e-eb6f-4841-a029-b0808338b020")
+			(uuid "7b91a02e-eb6f-4841-a029-b0808338b022")
 		)
 		(instances
 			(project ""
