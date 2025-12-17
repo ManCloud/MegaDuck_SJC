@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Mega_Duck")(type "KiCad")(uri "${KIPRJMOD}/Mega_Duck.kicad_sym")(options "")(descr ""))
-)
