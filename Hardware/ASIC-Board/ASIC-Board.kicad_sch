@@ -10204,6 +10204,16 @@
 		)
 		(uuid "06307375-b7ea-4a47-bb9a-627485d7e18c")
 	)
+	(label "VOICE_~{RST}"
+		(at 353.06 213.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0d25b3c0-b1e7-42ff-b7dc-5ec557b6379b")
+	)
 	(label "SOUT_EXT"
 		(at 353.06 162.56 180)
 		(effects
@@ -10253,16 +10263,6 @@
 			(justify right bottom)
 		)
 		(uuid "26277968-d3f0-4e66-a5fb-3e3b83fabd9d")
-	)
-	(label "EDGE_23"
-		(at 353.06 213.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2dd4557c-17a6-4ce0-9569-96463d15c45d")
 	)
 	(label "SCK_ASIC"
 		(at 353.06 226.06 180)
@@ -10314,7 +10314,7 @@
 		)
 		(uuid "4c7621f1-01ec-44bc-90ed-4de846c98a60")
 	)
-	(label "EDGE_21"
+	(label "LNK_ASIC_EN"
 		(at 353.06 208.28 180)
 		(effects
 			(font
@@ -10354,7 +10354,7 @@
 		)
 		(uuid "70fec6e9-6c4c-4b5b-8d02-4ddfaffff94b")
 	)
-	(label "EDGE_14"
+	(label "MONO_IN"
 		(at 353.06 190.5 180)
 		(effects
 			(font
@@ -10394,16 +10394,6 @@
 		)
 		(uuid "a840a1cf-41b3-4555-aaf2-929ac3e91fcc")
 	)
-	(label "EDGE_22"
-		(at 353.06 210.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "afc61285-2503-41fb-b37f-2e5fa3229174")
-	)
 	(label "XTAL_1"
 		(at 353.06 228.6 180)
 		(effects
@@ -10424,7 +10414,7 @@
 		)
 		(uuid "bbd01d3a-c47a-4a8a-b05e-954cd3c546d8")
 	)
-	(label "LNK_EDGE_EN"
+	(label "LNK_EXT_EN"
 		(at 353.06 205.74 180)
 		(effects
 			(font
@@ -10453,6 +10443,16 @@
 			(justify right bottom)
 		)
 		(uuid "d45d3d51-2009-44dd-8f51-e9488a5577f5")
+	)
+	(label "VOICE_DATA"
+		(at 353.06 210.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dae27042-35c0-4ef0-9e8b-4d0b62a7fe9c")
 	)
 	(label "EDGE_19"
 		(at 353.06 203.2 180)

@@ -7824,7 +7824,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "62b2e218-0110-4dd2-80b0-2da934dd7bf6")
 		(property "Reference" "J304"
 			(at 148.59 44.45 0)
