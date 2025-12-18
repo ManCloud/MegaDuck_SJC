@@ -13106,7 +13106,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x20_Odd_Even")
-		(at 90.17 233.68 0)
+		(at 90.17 236.22 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13114,7 +13115,7 @@
 		(dnp no)
 		(uuid "b978320f-4788-49a0-a3e1-d1961f14c409")
 		(property "Reference" "J201"
-			(at 91.44 204.47 0)
+			(at 91.44 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13122,7 +13123,7 @@
 			)
 		)
 		(property "Value" "Conn_02x20_Odd_Even"
-			(at 91.44 207.01 0)
+			(at 91.44 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13130,7 +13131,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical"
-			(at 90.17 233.68 0)
+			(at 90.17 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13139,7 +13140,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 233.68 0)
+			(at 90.17 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13148,7 +13149,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 90.17 233.68 0)
+			(at 90.17 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
